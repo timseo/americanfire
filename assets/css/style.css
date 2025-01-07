@@ -50,6 +50,7 @@
 /*-------------------------- 
       Global Styles
 ---------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap");
 html,
 body {
   scroll-behavior: smooth;
@@ -7758,6 +7759,10 @@ textarea.form-control {
     font-size: 10px;
   }
 }
+* {
+  font-family: "Instrument Sans", serif !important;
+}
+
 .header .navbar-brand {
   border-right: 0 !important;
   margin-right: 40px !important;
@@ -7804,6 +7809,11 @@ textarea.form-control {
 @media (max-width: 991px) {
   .home-banner .slide-item .row .slide__title {
     font-size: 32px;
+  }
+}
+@media (max-width: 768px) {
+  .home-banner .slide-item .row .slide__title {
+    color: #ffffff;
   }
 }
 .home-banner .slide-item .row .slide__subtitle {
@@ -8263,11 +8273,15 @@ textarea.form-control {
 .footer .col-sm-12:first-child .mail_button i {
   font-size: 13px;
   margin-right: 12px;
+  color: #B92D2D;
 }
 .footer .col-sm-12:first-child .mail_button span {
   font-size: 18px;
   color: #ffffff;
   text-decoration: underline;
+}
+.footer .col-sm-12:first-child .mail_button:hover i {
+  color: #B92D2D;
 }
 .footer .logo {
   flex-grow: 1;
