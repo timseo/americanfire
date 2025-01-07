@@ -27,29 +27,50 @@
 .home-banner{
     .slide-item{
         min-height: 950px;
+        @media (max-width: 991px) {
+            min-height: 1150px;
+        }
+        @media (max-width: 768px) {
+            min-height: 1px;
+        }
         .row{
             align-items: center;
             .slide__title{
                 font-size: 42px;
                 color: $color-primary;
+                @media (max-width: 991px) {
+                    font-size: 32px;
+                }
             }
             .slide__subtitle{
                 color: $color-primary;
                 margin-bottom: 30px;
                 font-size: 17px;
+                @media (max-width: 991px) {
+                    margin-bottom: 20px;
+                }
             }
             .slide__desc{
                 color: $color-primary;
                 margin-top: 30px;
+                @media (max-width: 991px) {
+                    margin-top: 20px;
+                }
             }
-            .btn__primary i{
-                font-size: 22px;
+            .btn__primary{
+                @media (max-width: 991px) {
+                    margin-bottom: 30px;
+                }
+                i{
+                    font-size: 22px;
+                } 
             }
         }
     }
     .slick-arrow{
         color: $color-black;
-        text-shadow: 1px 1px 5px #000;
+        color: #000000;
+        text-shadow: 0px 4px 5px rgba(0, 0, 0, .25); 
     }
     .slick-arrow.slick-prev:before{
         content: '\e905';
@@ -117,6 +138,8 @@
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
+    padding-left: 15px;
+    padding-right: 15px;
     .heading__subtitle{
         margin-bottom: 15px;
         display: block;
@@ -124,6 +147,9 @@
     .heading__title{
         font-size: 40px;
         color: $color-black;
+        @media (max-width: 767px) {
+            font-size: 30px;
+        }
     }
     .slick-carousel{
         .slick-list{
@@ -195,8 +221,15 @@
     }
 }
 .home-services{
+    .container{
+        padding-left: 30px;
+        padding-right: 30px;    
+    }
     .heading__title{
         color: $color-primary;
+        @media (max-width: 767px) {
+            font-size: 26px;
+        }
     }
     .heading__desc{
         color: $color-black;
@@ -231,8 +264,28 @@
             }
         }
         .btn{
+            margin-right: 20px;
             i{
                 font-size: 22px;
+            }
+        }
+        .text-button{
+            color: $color-primary;
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            text-transform: capitalize;
+            font-size: 14px;
+            font-weight: 700;
+            height: 60px;
+            letter-spacing: 0.3px;
+            transition: all 0.3s linear;
+            position: relative;
+            top: 15px;
+            i{
+                font-size: 22px;
+                margin-right: 10px;
+                
             }
         }
     }
@@ -255,8 +308,13 @@
 }
 
 .home-fire{
+    padding-left: 15px;
+    padding-right: 15px;
     .heading__title{
         color: $color-white;
+        @media (max-width: 767px) {
+            font-size: 26px;
+        }
     }
     .heading__desc{
         color: $color-white;
@@ -264,16 +322,41 @@
         font-size: 18px;
     }
     .btn{
+        margin-right: 20px;
         i{
             font-size: 22px;
+        }
+    }
+    .text-button{
+        color: $color-white;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        text-transform: capitalize;
+        font-size: 14px;
+        font-weight: 700;
+        height: 60px;
+        letter-spacing: 0.3px;
+        transition: all 0.3s linear;
+        position: relative;
+        top: 15px;
+        i{
+            font-size: 22px;
+            margin-right: 10px;
+            
         }
     }
   
 }
 .home-choose {
+    padding-left: 15px;
+    padding-right: 15px;
     .heading__title{
         color: $color-black;
         line-height: 1.4;
+        @media (max-width: 767px) {
+            font-size: 26px;
+        }
     }
     .counter-item{
         i{
@@ -283,14 +366,31 @@
         .counter__desc{
             color: $color-black;
             margin: 5px 0 ;
+            @media (max-width: 991px) {
+                font-size: 14px;
+            }
         }
         .divider__line:after{
             background-color: #a7a7a7;
+            @media (max-width: 991px) {
+                left: calc(50% - 14px);
+            }
+        }
+        @media (max-width: 991px) {
+            text-align: center;
+            margin-bottom: 30px;
         }
     }
+    img{
+        border-radius: 20px;
+    }
     .about__text{
+        @media (max-width: 991px) {
+            margin-top: 30px;
+        }
         .text__icon{
             margin-top: 0;
+            margin-bottom: 20px;
             i{
                 font-size: 60px;
             }
@@ -298,6 +398,9 @@
         .heading__title{
             font-size: 30px;
             color: $color-primary;
+            @media (max-width: 767px) {
+                font-size: 26px;
+            }
         }
         .heading__desc{
             color: $color-black;
@@ -315,15 +418,28 @@
 }
 
 .partner{
+    padding-left: 15px;
+    padding-right: 15px;
     .container{
         max-width: 1000px;
         img{
             margin: auto;
             display: block;
+            @media (max-width: 991px) {
+                height: 100px;
+            }
+            @media (max-width: 767px) {
+                height: 80px;
+            }
+        }
+        .col-4:last-child{
+            padding: 0 9%;
         }
     }
 }
 .footer{
+    padding-left: 15px;
+    padding-right: 15px;
     .row{
         justify-content: space-between;
     }
@@ -369,6 +485,9 @@
         flex-grow: 1;
         img{
             width: 200px;
+            @media (max-width: 767px) {
+                width: 160px;
+            }
         }
     }
     @media (max-width: 991px) {
@@ -379,5 +498,13 @@
         .quote-panel{
             margin-top: 20px;
         }
+    }
+    .copyright{
+        text-align: center;
+        margin-bottom: 0;
+        color: $color-white;
+        margin-top: 20px;
+        font-size: 13px;
+        line-height: 1.4;
     }
 }
