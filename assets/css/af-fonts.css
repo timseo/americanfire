@@ -1,0 +1,69 @@
+@font-face {
+  font-family: 'af-fonts';
+  src:  url('../fonts/af-fonts.eot?ljghla');
+  src:  url('../fonts/af-fonts.eot?ljghla#iefix') format('embedded-opentype'),
+    url('../fonts/af-fonts.ttf?ljghla') format('truetype'),
+    url('../fonts/af-fonts.woff?ljghla') format('woff'),
+    url('../fonts/af-fonts.svg?ljghla#af-fonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-af-"], [class*=" icon-af-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'af-fonts' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-af-circle-arrow-left:before {
+  content: "\e903";
+}
+.icon-af-circle-arrow-right:before {
+  content: "\e904";
+}
+.icon-af-quotes:before {
+  content: "\e900";
+}
+.icon-af-arrow-dropdown:before {
+  content: "\e901";
+}
+.icon-af-arrow-left:before {
+  content: "\e902";
+}
+.icon-af-arrow-right:before {
+  content: "\e905";
+}
+.icon-af-24-7:before {
+  content: "\e906";
+}
+.icon-af-customized:before {
+  content: "\e907";
+}
+.icon-af-decades:before {
+  content: "\e908";
+}
+.icon-af-email:before {
+  content: "\e909";
+}
+.icon-af-licensed:before {
+  content: "\e90a";
+}
+.icon-af-location:before {
+  content: "\e90b";
+}
+.icon-af-phone:before {
+  content: "\e90c";
+}
+.icon-af-why-choose:before {
+  content: "\e90d";
+}
