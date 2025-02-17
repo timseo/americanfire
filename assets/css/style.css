@@ -8318,3 +8318,7 @@ textarea.form-control {
 .how-it-works .heading-layout2 .heading__title {
   font-size: 22px;
 }
+
+.banner-layout2 .slick-arrow.slick-next, .banner-layout2 .slick-arrow.slick-prev {
+  background-color: #161616;
+}
