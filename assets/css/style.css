@@ -8322,3 +8322,63 @@ textarea.form-control {
 .banner-layout2 .slick-arrow.slick-next, .banner-layout2 .slick-arrow.slick-prev {
   background-color: #161616;
 }
+
+
+/* CUSTOM CODE*/
+.paragraph0 {
+
+  color:black!important;
+  font-size: 15px!important;
+}
+.paragraph1 {
+
+  color:black!important;
+  font-size: 15px!important;
+}
+
+.paragraph2 {
+
+  color:black!important;
+  font-size: 15px!important;
+}
+
+.paragraph3 {
+
+  color:black!important;
+  font-size: 15px!important;
+}
+
+.home-banner .slide-item {
+  min-height: 790px;
+}
+.slider .slide-item {
+  height: 90vh;
+}
+
+.stars {
+  margin-bottom:5px;
+}
+#testimonial {
+padding-top:30px!important;
+}
+
+.home-testimonials .slick-carousel .testimonial-item .author .details .name {
+  margin-bottom: -2px;
+  line-height: 1.2;
+  color: #000000;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
+  .slider .slide-item {
+      height: 90vh;
+  }
+
+  .home-banner .slide-item {
+      min-height: 1240px;
+  }
+  .home-banner .slide-item .row .slide__title {
+    color:#B92D2D!important;
+  }
+}
+
