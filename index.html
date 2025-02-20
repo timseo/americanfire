@@ -178,7 +178,7 @@
               class="navbar-actions d-none d-xl-flex align-items-center list-unstyled mb-0"
             >
               <li>
-                <a href="request-quote.html" class="btn btn__primary">
+                <a href="#" class="btn btn__primary"data-toggle="modal" data-target="#quoteModal">
                   <span>Request Your FREE Quote</span>
                   <i class="icon-af-circle-arrow-right"></i>
                 </a>
@@ -661,7 +661,7 @@
                   </p>
                 </div>
                 <!-- /.heading -->
-                <a href="request-quote.html" class="btn btn__primary mt-20">
+                <a href="#" class="btn btn__primary mt-20" data-toggle="modal" data-target="#quoteModal">
                   <span>Request Your FREE Quote</span>
                   <i class="icon-af-circle-arrow-right"></i>
                 </a>
@@ -694,10 +694,66 @@
                   </p>
                 </div>
                 <!-- /.heading -->
-                <a href="request-quote.html" class="btn btn__primary mt-20">
-                  <span>Request Your FREE Quote</span>
-                  <i class="icon-af-circle-arrow-right"></i>
-                </a>
+<!-- Trigger Button -->
+<a href="#" class="btn btn__primary mt-20" data-toggle="modal" data-target="#quoteModal">
+  <span>Request Your FREE Quote</span>
+  <i class="icon-af-circle-arrow-right"></i>
+</a>
+
+<!-- Quote Modal -->
+<div class="modal fade" id="quoteModal" tabindex="-1" role="dialog" aria-labelledby="quoteModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="quoteModalLabel">Request Your FREE Quote</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form class="contact-panel__form" method="post" action="assets/php/contact.php" id="contactForm" novalidate="novalidate">
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Name" name="quote-name" required />
+          </div>
+          <div class="form-group">
+            <input type="email" class="form-control" placeholder="Email" name="quote-email" required />
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Phone" name="quote-phone" required />
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" placeholder="Project Address" name="quote-project-address" required />
+          </div>
+          <div class="form-group">
+            <label class="font-weight-bold">Type of Property</label>
+            <select class="form-control" name="quote-property">
+              <option value="0">Commercial</option>
+              <option value="1">Residential</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label class="font-weight-bold">Service Needed</label>
+            <select class="form-control" name="quote-service">
+              <option value="0">Inspection</option>
+              <option value="1">Maintenance</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" placeholder="Message" name="quote-message" required></textarea>
+          </div>
+          <button type="submit" class="btn btn__primary btn__block">
+            <span>Receive FREE Quote</span>
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Include Bootstrap JS (if not already included) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+
               </div>
             </div>
             <!-- /.col-lg-6 -->
@@ -747,7 +803,7 @@
                   </p>
                 </div>
                 <!-- /.heading -->
-                <a href="request-quote.html" class="btn btn__primary mt-20">
+                <a href="#" class="btn btn__primary mt-20" data-toggle="modal" data-target="#quoteModal">
                   <span>Request Your FREE Quote</span>
                   <i class="icon-af-circle-arrow-right"></i>
                 </a>
@@ -793,7 +849,7 @@
               </div>
               <!-- /.heading__layout2 -->
               <a
-                href="request-quote.html"
+                href="#" data-toggle="modal" data-target="#quoteModal"
                 class="btn btn__white btn__white-style2 mt-20"
               >
                 <span>Request Your FREE Quote</span>

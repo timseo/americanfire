@@ -8361,7 +8361,9 @@ textarea.form-control {
 #testimonial {
 padding-top:30px!important;
 }
-
+.form-control {
+  border: 1px solid #000000!important;
+}
 .home-testimonials .slick-carousel .testimonial-item .author .details .name {
   margin-bottom: -2px;
   line-height: 1.2;
