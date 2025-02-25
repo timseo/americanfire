@@ -1044,7 +1044,12 @@ select {
 }
 
 .bg-overlay-2:before {
-  background-color: rgba(27, 26, 26, 0.25);
+  background: linear-gradient(45deg, rgba(255, 255, 255, .9), transparent);
+}
+@media (max-width:767px){
+  .bg-overlay-2:before {
+    background: linear-gradient(153deg, rgba(255, 255, 255, .9), transparent);
+  }
 }
 
 .bg-overlay-3:before {
