@@ -62,7 +62,7 @@ body {
   background-color: #ffffff;
   font-family: "Roboto", sans-serif;
   font-size: 15px;
-  color: #9b9b9b;
+  color: #000 !important;
   overflow-x: hidden;
 }
 
