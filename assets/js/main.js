@@ -263,4 +263,21 @@ $(function () {
         }
     });
     $rangeSliderResult.val("$" + $rangeSlider.slider("values", 0) + " - $" + $rangeSlider.slider("values", 1));
+
+    // Load the navigation dynamically
+    fetch("components/nav.html")
+    .then((response) => response.text())
+    .then((data) => {
+      document.getElementById("nav-placeholder").innerHTML = data;
+    })
+    .catch((error) => console.error("Error loading navigation:", error));
+
+    // Load the navigation dynamically
+    fetch("components/footer.html")
+    .then((response) => response.text())
+    .then((data) => {
+      document.getElementById("footer-placeholder").innerHTML = data;
+    })
+    .catch((error) => console.error("Error loading navigation:", error));
 });
+
