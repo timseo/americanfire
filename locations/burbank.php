@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-12-fire-sprinklers-contractor-burbank.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">Your One-Stop Solution for Fire Sprinkler Services</h3>
+<h1 class="heading__title">Fire Sprinklers Contractor Burbank</h1>
+<h2 class="heading__subtitle">Expert Fire Sprinklers Services in Burbank</h2>
+<p class="heading__desc mb-20">When it comes to safeguarding lives and property, American Fire Protection Systems Inc. delivers exceptional fire protection in Burbank. We understand the safety of your space is not just a necessity&mdash;it's a responsibility. With years of expertise in fire sprinklers, we combine quality craftsmanship, extensive experience, and proven processes to keep you protected. We'll ensure that your fire sprinkler system is compliant with all local fire codes and regulations while offering optimal performance when you count it the most. </p>
+<h3 class="heading__subtitle">Residential Fire Sprinkler Burbank</h3>
+<p class="heading__desc mb-20">Our residential fire sprinklers in Burbank offer a crucial layer of protection for the ones you love. We provide reliable systems that are not only effective but also discreet and easy to maintain. We understand the unique needs of residential properties and the importance of fire protection in keeping lives and property safe. We customize each system to ensure optimal coverage for your home.</p>
+<h3 class="heading__subtitle">Our Proven Process for Fire Safety Burbank</h3>
+<p class="heading__desc mb-20"><strong>Analyzing Your Fire Safety Requirements: </strong> Our team begins by thoroughly evaluating your property's fire safety needs. This ensures that every solution we provide is tailored to your specific requirements.</p>
+<p class="heading__desc mb-20"><strong>Design and Permitting: </strong> We specialize in the design  of personalized fire safety systems. Following the design phase, our team oversees all necessary steps of the permitting process.</p>
+<p class="heading__desc mb-20"><strong>Seamless Installation: </strong> Our experienced team installs fire sprinkler systems with precision and speed, minimizing disruptions and keeping your project on track while ensuring optimal performance.</p>
+<p class="heading__desc mb-20"><strong>Adhering to Compliance Standards: </strong> We ensure that all systems meet local fire safety regulations, so you can be confident in your property's compliance.</p>
+<p class="heading__desc mb-20"><strong>Inspection and Maintenance Services: </strong> To maintain reliability, we offer regular inspections and maintenance services. This ensures your system operates at peak performance when it matters most.</p>
+<h3 class="heading__subtitle">Fire Sprinkler Solution Burbank</h3>
+<p class="heading__desc mb-20"><strong>Single Family Homes: </strong> We provide services for both new construction and major remodels.</p>
+<p class="heading__desc mb-20"><strong>Accessory Dwelling Units: </strong> Fire sprinklers for accessory dwelling units (ADUs) and junior accessory dwelling units (JADUs) are an essential safety measure. We provide systems designed to protect smaller residential spaces with precision and care.</p>
+<p class="heading__desc mb-20"><strong>Duplexes: </strong> We offer tailored fire sprinkler solutions for duplexes, ensuring comprehensive coverage for both units while adhering to all compliance standards.</p>
+<p class="heading__desc mb-20"><strong>Multifamily: </strong> Our fire sprinkler systems for multifamily properties are engineered to provide maximum protection, safeguarding tenants and property alike.</p>
+<p class="heading__desc mb-20"><strong>Commercial: </strong> From warehouses to retail spaces, our commercial fire sprinklers in Burbank deliver unmatched efficiency and reliability to keep your business secure.</p>
+<h2 class="heading__subtitle">Services We Provide in Burbank</h2>
+<p class="heading__desc mb-20"><strong>Expert Fire System Installation Services: </strong> Installation is a critical phase in fire protection, and we are committed to delivering flawless results. We handle everything from system sizing to placement, ensuring that your fire sprinkler system is optimized for your property's layout. Our expert installers work to get your system up to date and respond quickly.</p>
+<p class="heading__desc mb-20"><strong>Comprehensive Fire Safety Inspections: </strong> Regular inspections are crucial to maintaining the integrity of your fire sprinkler system. Our team offers thorough inspections to ensure that your system is in excellent working condition. We inspect all components, from pipes to nozzles, to guarantee that everything is functioning properly and meets current safety standards according to local Authorities Having Jurisdiction (AHJs).</p>
+<p class="heading__desc mb-20"><strong>Efficient Repair Solutions for Fire Systems: </strong> From replacing recalled parts to addressing faulty components, you can count on us for efficient repairs. We offer prompt and effective solutions to get your system back in action. Our team is trained to diagnose issues quickly and provide lasting solutions, ensuring your fire protection remains intact.</p>
+<h3 class="heading__subtitle">Protect What Matters Most with Reliable Fire Safety Systems</h3>
+<h2 class="heading__subtitle">From Expert Installation to Maintenance, We Keep Lives and Properties Safe Across Burbank.</h2>
+<h2 class="heading__subtitle">Why Choose Us for Fire Protection Needs</h2>
+<ul>
+  <li>Experienced professionals with years of industry expertise</li>
+  <li>Customized fire sprinkler systems tailored to your property and budget</li>
+  <li>Fast and reliable service with quick response times</li>
+  <li>Compliance with local fire safety regulations</li>
+  <li>Commitment to reliability and high-performance systems</li>
+</ul>
+<p class="heading__desc mb-20">Don't leave your fire protection to chance; choose American Fire Protection Systems Inc. for all your fire sprinkler system needs, and enjoy the peace of mind that comes with expert fire protection. Let us protect your property with systems that are as reliable as they are affordable.</p>
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

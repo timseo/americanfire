@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-23-fire-sprinklers-contractor-studio-city.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">100+ Years of Collective Experience in Fire Safety Solutions</h3>
+<h1 class="heading__title">Fire Sprinklers Contractor Studio City</h1>
+<h2 class="heading__subtitle">Comprehensive Fire Protection Studio City</h2>
+<p class="heading__desc mb-20">At American Fire Protection Systems, Inc., we take pride in providing comprehensive fire protection solutions in Studio City. With over 100 years of combined expertise, we offer fire sprinkler systems designed to protect lives and property. Our services cater to both residential and commercial needs, ensuring your projects are completed on schedule while maintaining the highest standards of safety and compliance. From design to installation, we deliver proven fire protection services tailored to Studio City's unique requirements.</p>
+<h3 class="heading__subtitle">Residential Fire Sprinklers Studio City</h3>
+<p class="heading__desc mb-20">Protecting your home and loved ones starts with reliable fire sprinkler systems. At American Fire Protection Systems, Inc., we specialize in installing fire sprinkler systems for single-family properties, accessory apartments (including ADUs and JADUs), duplexes, and multi-family properties. Our systems are designed to provide seamless protection without compromising functionality. With our team's experience and dedication, you can count on us to deliver value, prompt service and exceptional quality for all your residential fire sprinkler needs.</p>
+<h3 class="heading__subtitle">Our Proven Process for Fire Safety Studio City</h3>
+<p class="heading__desc mb-20"><strong>Planning and Design: </strong> Our process begins with comprehensive planning and precise design. Every system is developed to meet project-specific needs while adhering to industry standards and regulations. We ensure accuracy and efficiency during this phase, creating a strong foundation for successful implementation.</p>
+<p class="heading__desc mb-20"><strong>Permitting and Regulatory Compliance: </strong> Once the plan is complete, we submit it to the local authorities for approval. We ensure that every step of the process, from design to installation, is in full compliance with the Authority Having Jurisdiction (AHJ) and ordinances. This streamlined approach helps keep your project on schedule and ensures there are no delays due to permitting issues.</p>
+<p class="heading__desc mb-20"><strong>Expert Installation: </strong> With our proven experience and dedication to quality, we provide expert installation of fire sprinkler systems. Our team ensures that every sprinkler is placed correctly, the system is integrated seamlessly, and everything works according to the approved plans. The installation is done quickly, without compromising quality or safety, ensuring your property is fully protected without unnecessary disruptions.</p>
+<p class="heading__desc mb-20"><strong>Maintenance and Support: </strong> Once your fire sprinkler system is installed, our relationship doesn't end there. We offer ongoing maintenance and support services, including regular inspections to ensure the system remains operational and up to code. If any recalled parts or faulty components are identified, we address them promptly, so your system is always in working order.</p>
+<h3 class="heading__subtitle">Fire Sprinkler Solutions Studio City</h3>
+<p class="heading__desc mb-20"><strong>Single-Family Properties: </strong> Fire sprinkler systems for single-family properties are vital to ensuring the safety of both the property and its residents. We design and install systems that integrate seamlessly into both new construction and remodeling projects, offering peace of mind for you and your family.</p>
+<p class="heading__desc mb-20"><strong>Accessory Apartments: </strong> Accessory dwelling units (ADUs) and junior accessory dwelling units (JADUs) also require fire sprinkler systems. These smaller homes, often built as standalone units or extensions to primary residences, need protection too. We provide fire sprinkler solutions specifically designed for these unique spaces, ensuring safety while meeting all regulatory requirements.</p>
+<p class="heading__desc mb-20"><strong>Duplexes: </strong> Duplexes, which are often seen in residential areas, benefit greatly from our proven fire sprinkler systems.  We focus on delivering affordable solutions that meet the demands of shared living spaces while adhering to all codes and standards.</p>
+<p class="heading__desc mb-20"><strong>Multi-Family Properties: </strong> Multi-family properties require robust fire protection systems to ensure the safety of multiple units. Our proven approach to fire sprinkler installation guarantees reliable performance across all individual homes and common areas.</p>
+<p class="heading__desc mb-20"><strong>Commercial Properties: </strong> Commercial fire sprinklers for warehouses and retail spaces can take advantage of our fire protection solutions. We design and install systems that meet the specific needs of your business, providing safety for employees, customers, and assets.</p>
+<h2 class="heading__subtitle">Services We Provide in Studio City</h2>
+<p class="heading__desc mb-20"><strong>Installation Services: </strong> Our fire sprinkler installation services prioritize quality and efficiency. From residential properties to commercial spaces, we ensure that every system is installed to perform reliably and meet all safety requirements. </p>
+<p class="heading__desc mb-20"><strong>Inspection Services: </strong> Regular inspections are essential for maintaining the effectiveness of your fire sprinkler system. Our team conducts thorough checks to identify potential issues and make sure all components are functioning properly. This proactive approach helps prevent costly repairs, keeping your system ready to perform</p>
+<p class="heading__desc mb-20"><strong>Maintenance & Repair Solutions: </strong> Keeping your fire sprinkler system in top condition is easy with our maintenance and repair solutions. We specialize in repairing recalled parts and addressing faulty components to extend the life of your system. Our services are designed to deliver value, durability and reliability, giving you confidence in your fire protection.</p>
+<h3 class="heading__subtitle">Protect What You Value Most with Robust Fire Protection Systems</h3>
+<h2 class="heading__subtitle">From Planning to Installation, We've Got You Covered and Keep Lives and Properties Safe Across Studio City.</h2>
+<h2 class="heading__subtitle">Why Choose Us in Studio City</h2>
+<p class="heading__desc mb-20">American Fire Protection Systems, Inc. stands out for our commitment to quality, experience, and value. With over 100 years of combined experience, we have the knowledge and expertise to handle projects of all sizes. Our dedication to affordability and prompt services ensures that your project is completed on time and within budget, without compromising safety. By choosing us, you're investing in a proven fire protection system  that performs when it matters most. </p>
+<p class="heading__desc mb-20">Contact us today to learn more about our services and how we can help protect your Studio City property.</p>
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

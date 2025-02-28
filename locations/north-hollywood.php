@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-16-fire-sprinklers-contractor-north-hollywood.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">Delivering Fire Sprinkler Solutions for Decades</h3>
+<h1 class="heading__title">Fire Sprinklers Contractor North Hollywood</h1>
+<h2 class="heading__subtitle">Expert Fire Protection North Hollywood</h2>
+<p class="heading__desc mb-20">In North Hollywood, safeguarding lives and properties isn't just a necessity—it's a commitment. At American Fire Protection Systems Inc., we bring unparalleled expertise in fire protection, delivering tailored solutions for residential, commercial, and industrial spaces. From installation to ongoing maintenance, our services adhere strictly to NFPA 25 and Title 19 testing standards, ensuring your fire sprinkler systems are always in perfect condition.</p>
+<h3 class="heading__subtitle">Residential Fire Sprinkler North Hollywood</h3>
+<p class="heading__desc mb-20">Your home's safety calls for the highest level of protection. Our residential fire sprinklers are designed to protect families and assets without disrupting the aesthetics of your living space. These systems are discreet yet powerful, providing immediate response during a fire emergency.</p>
+<p class="heading__desc mb-20">From single-family homes to multi-unit residences, we offer fire sprinkler solutions that align with local regulations and your home's specific requirements. Allow us to deliver the peace of mind you deserve.</p>
+<h3 class="heading__subtitle">Our Proven Process for Fire Safety North Hollywood</h3>
+<p class="heading__desc mb-20"><strong>Assessing Your Needs: </strong> We start with a thorough assessment of your property's unique requirements, taking into account its size, layout, and specific fire risks. This ensures a customized solution tailored to your needs.</p>
+<p class="heading__desc mb-20"><strong>Planning &amp; Consultation: </strong> Our experienced team develops a fire protection plan that balances safety, aesthetics, and efficiency. Every step is planned meticulously to deliver the best value.</p>
+<p class="heading__desc mb-20"><strong>Ensuring Regulatory Compliance: </strong> We ensure your fire sprinkler system complies with all local codes and regulations. Our team's expertise eliminates delays caused by permitting and approvals.</p>
+<p class="heading__desc mb-20"><strong>Expert Installation: </strong> Using high-quality materials and efficient installation methods, we deliver systems that are both durable and reliable. Our team works quickly to minimize disruptions to your property and keep your project on schedule.</p>
+<p class="heading__desc mb-20"><strong>Ongoing Support and Maintenance: </strong> Our commitment doesn't end with installation. We provide regular inspections, maintenance, and support to keep your system in top condition year after year.</p>
+<h3 class="heading__subtitle">Fire Sprinkler Solution North Hollywood</h3>
+<p class="heading__desc mb-20"><strong>Single family homes: </strong> We specialize in affordable sprinkler solutions for both new construction projects and major remodels.</p>
+<p class="heading__desc mb-20"><strong>Accessory Dwelling Units: </strong> Protecting your ADU or JADU is crucial for safeguarding your investment and the people within. We design and install efficient fire sprinkler systems tailored to these smaller spaces.</p>
+<p class="heading__desc mb-20"><strong>Duplex Residences: </strong> Dual-unit homes require specialized fire protection. We deliver customized solutions that meet local codes and provide peace of mind for all residents.</p>
+<p class="heading__desc mb-20"><strong>Multi-Family Properties: </strong> For multi-family properties, our fire sprinkler systems ensure comprehensive coverage and compliance with regulatory standards, offering safety to all residences.</p>
+<p class="heading__desc mb-20"><strong>Commercial Properties: </strong> From warehouses to retail spaces, we provide commercial fire sprinkler systems designed for durability, efficiency, and adherence to local requirements. Your business's safety and property is our priority.</p>
+<h2 class="heading__subtitle">Services We Provide in North Hollywood</h2>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Installation: </strong> Installing a fire sprinkler system requires precision, expertise, and a commitment to quality. Our team uses state-of-the-art equipment and proven methods to ensure that your fire sprinklers are installed correctly the first time. From selecting the right components to seamless integration with your property's infrastructure, we deliver systems that are both effective and affordable.</p>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Inspection and Assessment: </strong> Regular inspections are vital to keeping your fire sprinkler system in top working condition. Our inspections follow local Authorities Having Jurisdiction (AHJ) building codes and certification standards. During each assessment, we meticulously check for leaks, corrosion, and proper functionality to guarantee that your system is ready to respond in case of an emergency.</p>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Repair: </strong> When your fire sprinkler system experiences a malfunction, it's essential to address the issue immediately. Our repair services include everything from fixing leaks to replacing recalled or faulty components, ensuring your system operates at peak performance. We prioritize rapid response and quality repairs to minimize disruption to your home or business.</p>
+<h3 class="heading__subtitle">Protect Your Valuables with Reliable Fire Safety Systems</h3>
+<h2 class="heading__subtitle">From Expert Installation to Maintenance, We've Got You Covered and Keep Lives and Properties Safe Across North Hollywood.</h2>
+<h2 class="heading__subtitle">Why Choose Us in North Hollywood</h2>
+<p class="heading__desc mb-20">Choosing American Fire Protection Systems Inc. means partnering with a team that views your safety as their responsibility. Our reputation in fire sprinklers in North Hollywood has been built through years of consistent excellence, transparent communication, and unwavering commitment to customer satisfaction.</p>
+<p class="heading__desc mb-20">We don't just adhere to industry standards; we go above and beyond to exceed them. Our team undergoes regular training to stay ahead of industry developments, ensuring you benefit from the latest advancements in fire protection technology. </p>
+<p class="heading__desc mb-20">Your safety isn't something to leave to chance. Call our fire protection specialists today and discover how we can safeguard your North Hollywood property with leading solutions.</p>
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-26-multifamily-property-fire-protection-services.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">100+ Years of Combined Experience in Fire Protection Solutions</h3>
+<h1 class="heading__title">Multifamily Property Fire Protection Services</h1>
+<h2 class="heading__subtitle">Comprehensive Fire Protection for Multifamily Properties</h2>
+<p class="heading__desc mb-20">Fires can be devastating, but having the right fire sprinkler systems in place can reduce both risk and damage. At American Fire Protection Systems (AFPS), we offer proven, comprehensive fire protection services for multifamily properties to keep residents and buildings safe.</p>
+<p class="heading__desc mb-20">Whether you're managing new construction or an existing property, we have the expertise to handle the entire process—from planning and design to installation and maintenance. We ensure your projects stay on schedule and comply fully with the local Authority Having Jurisdiction (AHJ). Trust us to handle your fire protection process with precision, efficiency, and unparalleled expertise.</p>
+<h3 class="heading__subtitle">Expert System Design for Multifamily Properties</h3>
+<p class="heading__desc mb-20">The foundation of an effective fire protection system begins with expert planning and design. Our engineers develop fire sprinkler plans tailored specifically for multifamily properties, ensuring optimal coverage and adherence to all local codes and ordinances. We specialize in designing systems to NFPA 13 and NFPA 13R fire sprinkler system standards, which are comprehensive regulatory frameworks designed to keep critical residential spaces safe. </p>
+<p class="heading__desc mb-20">We manage the entire permitting process, working directly with the local AHJ to obtain necessary approvals before moving to the installation phase. This ensures that your project progresses smoothly without unnecessary delays. By focusing on thorough planning, we help protect apartments, townhouses, and similar residences while maintaining affordability.</p>
+<h3 class="heading__subtitle">Reliable Installation of Fire Sprinkler Systems</h3>
+<p class="heading__desc mb-20">Proper installation is critical to the functionality and reliability of any fire sprinkler system. At American Fire Protection Systems, Inc., we prioritize quality and precision at every step of the installation process. Our highly trained technicians bring 100 years of combined experience to the table, ensuring each fire sprinkler system is installed to perform reliably under any circumstance.</p>
+<p class="heading__desc mb-20">Whether your project involves fire sprinklers for apartments, townhouses, or condos, we take pride in completing installations swiftly and effectively—helping you keep your projects on schedule. With a commitment to using proven materials and adhering to all local standards, we guarantee lasting value and protection.</p>
+<h3 class="heading__subtitle">Routine Inspections and Maintenance for Fire Sprinklers</h3>
+<p class="heading__desc mb-20">Fire sprinkler systems require regular inspections and maintenance to remain operational and compliant. Our team provides routine maintenance services for fire sprinkler systems for multifamily properties, focusing on identifying potential issues early and ensuring long-term reliability.</p>
+<p class="heading__desc mb-20">We handle repairs for recalled parts and address faulty components, ensuring your system is always in peak condition. With our maintenance plans, you can rest assured that your property is protected and compliant with local regulations, minimizing risks and protecting your investment.</p>
+<h2 class="heading__subtitle">Committed to Safety and Regulatory Compliance</h2>
+<p class="heading__desc mb-20">When it comes to fire protection for multifamily properties, safety and compliance are non-negotiable. Our services are designed to meet the highest standards of quality while aligning with local AHJ requirements and ordinances. From initial system design to final inspection, we ensure every step of the process meets strict regulatory guidelines without unnecessary complexity or delays. This commitment to safety and compliance keeps your property protected without compromising on project timelines or budgets.</p>
+<h3 class="heading__subtitle">Protect What Matters Most with Trusted Fire Safety Systems</h3>
+<h2 class="heading__subtitle">From Expert Designing to Precise Installation, We've Got You Covered and Keep Lives and Properties Safe.</h2>
+<h2 class="heading__subtitle">Protect Your Multifamily Properties with AFPS</h2>
+<p class="heading__desc mb-20">At American Fire Protection Systems, Inc., we are dedicated to delivering exceptional fire protection solutions for multifamily apartments. With a focus on quality, value, and durability, our team ensures that every project benefits from our years of expertise and proven methods.</p>
+<p class="heading__desc mb-20">From designing fire sprinkler systems to handling installations, inspections, and maintenance, we offer everything you need to safeguard your property and its occupants. Trust us to keep your projects on schedule, while providing reliable and affordable fire protection services. Contact us today to learn more about how we can help protect your multifamily property with a fire protection system you can trust.</p>  
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

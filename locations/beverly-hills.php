@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-20-fire-sprinklers-contractor-beverly-hills.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">More Than 100 Years of Combined Experience in Fire Protection Systems</h3>
+<h1 class="heading__title">Fire Sprinklers Contractor Beverly Hills</h1>
+<h2 class="heading__subtitle">Comprehensive Fire Protection Beverly Hills</h2>
+<p class="heading__desc mb-20">American Fire Protection Systems, Inc., is a leading provider of fire protection services in Beverly Hills. With over 100 years of combined experience, our team manages all aspects of fire protection, including engineering and design, installation, inspections, repair, and maintenance. Whether it's for a residential property or commercial buildings, you can count on us for reliable service delivered with integrity.</p>
+<h3 class="heading__subtitle">Residential Fire Sprinklers Beverly Hills</h3>
+<p class="heading__desc mb-20">Understanding the architectural landscape of Beverly Hills, our residential fire sprinkler services cater to various property types. These systems are activated immediately, reducing the risk of property damage and saving lives.</p>
+<p class="heading__desc mb-20">With expertise and proven processes, we ensure every system we install meets the highest standards and remains dependable for years to come. Delivering sprinkler systems that stand the test of time is at the core of our commitment to fire safety.</p>
+<h3 class="heading__subtitle">Our Proven Process for Fire Safety Beverly Hills</h3>
+<p class="heading__desc mb-20"><strong>Planning and Design: </strong> Every project begins with a detailed planning and design phase. This step ensures that your fire protection system is functional and lays the groundwork for optimal fire safety. It also assures you that all essential details are considered before moving to the next phase, minimizing potential issues.</p>
+<p class="heading__desc mb-20"><strong>Permitting and Compliance: </strong> We submit plans to the local Authority Having Jurisdiction (AHJ) to secure necessary approvals and ensure compliance with all ordinances. This step is critical to ensuring your fire sprinkler system is legally approved and ready for installation.</p>
+<p class="heading__desc mb-20"><strong>Expert Installation: </strong> With a commitment to quality and value, we handle every installation with precision. From single-family properties to commercial buildings, we deliver dependable solutions that stand the test of time.</p>
+<p class="heading__desc mb-20"><strong>Maintenance and Support: </strong> Fire safety and routine inspections are vital for keeping your fire protection system in optimal condition. Our maintenance services include inspecting, testing, and addressing any potential issues, such as recalled parts or faulty components. Regular maintenance helps ensure your system remains effective, reducing the likelihood of costly repairs or downtime.</p>
+<h3 class="heading__subtitle">Fire Sprinkler Solutions Beverly Hills</h3>
+<p class="heading__desc mb-20"><strong>Single-Family Buildings: </strong> Our fire sprinklers are designed to provide reliable protection for single-family homes, keeping occupants and property safe from the devastating effects of fire.</p>
+<p class="heading__desc mb-20"><strong>Accessory Dwelling Units: </strong> We understand the unique requirements of ADUs and JADUs. We provide installations that meet all local codes, safeguarding these spaces without compromising on functionality.</p>
+<p class="heading__desc mb-20"><strong>Multi-Family Buildings: </strong> We understand the demands of fire protection for multifamily housing, including apartments and condos. Our systems are expertly designed to protect multiple units effectively, combining affordability with highest safety standards.</p>
+<p class="heading__desc mb-20"><strong>Commercial Buildings: </strong> Our fire protection expertise extends to commercial properties such as warehouses and retail spaces. These fire sprinkler systems are designed to handle the unique demands of commercial environments, providing reliable fire safety to protect both occupants and assets.</p>
+<h2 class="heading__subtitle">Services We Provide in Beverly Hills</h2>
+<p class="heading__desc mb-20"><strong>Fire Protection System Installation: </strong> We specialize in installing fire protection systems that meet the specific needs of your property. Our expertise ensures a seamless process from planning to installation, with every system designed to comply with local codes.</p>
+<p class="heading__desc mb-20"><strong>Fire Protection System Inspection: </strong> Routine inspections are crucial for maintaining the effectiveness of your fire protection system. Our team conducts thorough evaluations to identify potential issues and ensure your system operates at peak performance.</p>
+<p class="heading__desc mb-20"><strong>Fire Protection System Repair: </strong> From addressing faulty components to resolving issues with recalled parts, our repair services keep your system in optimal condition. We act swiftly to minimize disruptions and restore full functionality.</p>
+<h3 class="heading__subtitle">Protect What Matters Most with Reliable Fire Safety Systems</h3>
+<h2 class="heading__subtitle">From Planning to Installation, We've Got You Covered and Keep Lives and Properties Safe Across Beverly Hills.</h2>
+<h2 class="heading__subtitle">Why Choose Us in Beverly Hills</h2>
+<p class="heading__desc mb-20">American Fire Protection Systems, Inc. is a trusted partner for fire protection in Beverly Hills. Here's why property owners and managers continue to choose us:</p>
+<p class="heading__desc mb-20"><strong>Proven Expertise: </strong> With 100 years of combined experience, our team delivers fire sprinkler systems that stand the test of time.</p>
+<p class="heading__desc mb-20"><strong>Commitment to Quality: </strong> Every project reflects our dedication to excellence and adherence to industry standards.</p>
+<p class="heading__desc mb-20"><strong>Affordability and Value: </strong> We provide cost-effective solutions without compromising safety or reliability.</p>
+<p class="heading__desc mb-20"><strong>Smooth Processes: </strong> From planning to installation, we keep your projects on schedule and within budget.</p>
+<p class="heading__desc mb-20"><strong>Compliance Guaranteed: </strong> We ensure all systems comply with local codes and ordinances, giving you peace of mind.</p>
+<p class="heading__desc mb-20">For dependable fire protection services in Beverly Hills, trust American Fire Protection Systems, Inc. Contact us today to learn how we can help safeguard your property with proven fire safety solutions.</p> 
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

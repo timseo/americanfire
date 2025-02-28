@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-24-fire-protection-services-for-adus-and-jadus.jpg" alt="background">
+    </section><!-- /.page-title -->
+
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">100+ Years of Collective Experience in Fire Safety Solutions</h3>
+<h1 class="heading__title">Fire Protection Services for ADUs and JADUs</h1>
+<h2 class="heading__subtitle">Comprehensive Fire Protection for ADUs and JADUs</h2>
+<p class="heading__desc mb-20">Accessory Dwelling Units (ADUs) and Junior Accessory Dwelling Units (JADUs) are growing in popularity as practical housing solutions. However, ensuring fire safety in these structures is essential. At American Fire Protection Systems, Inc., we specialize in delivering fire protection services for ADUs and JADUs that are designed to safeguard lives and property. With over 100 years of combined experience, our team provides proven solutions while keeping your projects on schedule and within budget.</p>
+<h3 class="heading__subtitle">Expert System Design for ADUs and JADUs</h3>
+<p class="heading__desc mb-20">The foundation of any effective fire protection system starts with a precise design. Our expert team creates detailed plans specifically for ADUs, ensuring that every system adheres to the requirements set by the local Authority Having Jurisdiction (AHJ) and ordinances.</p>
+<p class="heading__desc mb-20">We take a methodical approach to design:</p>
+<p class="heading__desc mb-20">Assessing the unique needs of your ADU or JADU project.</p>
+<p class="heading__desc mb-20">Developing detailed fire sprinkler layouts for optimal coverage.</p>
+<p class="heading__desc mb-20">Submitting plans for approval to keep your projects on schedule.</p>
+<p class="heading__desc mb-20">Our dedication to planning and compliance ensures a smooth process from start to finish.</p>
+<h3 class="heading__subtitle">Precise Installation of Fire Sprinkler Systems</h3>
+<p class="heading__desc mb-20">Proper installation is essential to the effectiveness of any fire sprinkler system. Our team specializes in installing fire sprinklers for ADUs and JADUs, delivering exceptional quality and value. We prioritize precision in every project, utilizing state-of-the-art materials to deliver systems designed for long-term performance. </p>
+<p class="heading__desc mb-20">Our installation services include:</p>
+<p class="heading__desc mb-20">Setting up reliable fire sprinkler systems for ADUs and JADUs.</p>
+<p class="heading__desc mb-20">Using quality components for durability and reliability.</p>
+<p class="heading__desc mb-20">Verifying each installation to ensure compliance with all standards.</p>
+<p class="heading__desc mb-20">By adhering strictly to approved plans and local regulations, we complete every project with meticulous care and professionalism.</p>
+<h3 class="heading__subtitle">Reliable Maintenance and Inspections</h3>
+<p class="heading__desc mb-20">Regular maintenance and inspections are vital to ensuring fire sprinkler systems continue to function as intended. We offer comprehensive fire protection services for ADUs and JADUs, including routine inspections, repairs of recalled parts, and addressing faulty components.</p>
+<p class="heading__desc mb-20">Our maintenance services include:</p>
+<p class="heading__desc mb-20">Conducting thorough inspections to identify potential issues.</p>
+<p class="heading__desc mb-20">Repairing recalled parts to maintain system integrity.</p>
+<p class="heading__desc mb-20">Offering affordable service options to fit your budget.</p>
+<p class="heading__desc mb-20">With our proactive approach to maintenance, you can count on your fire protection system to perform when it matters most.</p>
+<h2 class="heading__subtitle">Committed to Safety and Compliance</h2>
+<p class="heading__desc mb-20">At American Fire Protection Systems, Inc., we understand the importance of safety and compliance in every project. From the initial design phase to the final installation, our team develops all fire sprinkler systems for ADUs and JADUs in line with the local AHJ and applicable codes. Our commitment to quality and proven processes has earned the trust of clients across the residential sectors.</p>
+<p class="heading__desc mb-20">Key aspects of our compliance-focused approach include:</p>
+<p class="heading__desc mb-20">Staying updated on the latest fire safety regulations.</p>
+<p class="heading__desc mb-20">Ensuring proper permits and approvals before starting installation.</p>
+<p class="heading__desc mb-20">Delivering systems that meet both safety and performance standards.</p>
+<h3 class="heading__subtitle">Protect What You Value Most with Robust Fire Safety Systems</h3>
+<h2 class="heading__subtitle">From Initial Planning to Installation, We've Got You Covered and Keep Lives and Properties Safe.</h2>
+<h2 class="heading__subtitle">Protect Your ADU and JADU with AFPS</h2>
+<p class="heading__desc mb-20">When it comes to fire protection for ADUs and JADUs, American Fire Protection Systems, Inc. stands as a trusted partner. Our focus on quality, value, and proper planning allows us to deliver solutions that meet the unique needs of each project. Whether you're building a new ADU or upgrading an existing property, our proven expertise ensures your investment is well-protected.</p>
+<p class="heading__desc mb-20">Contact us today to learn more about how we can help you with fire sprinklers for ADUs and JADUs. With over a century of combined experience, we're here to provide the safety, compliance, and reliability you need.</p>
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <meta name="description" content="Solatec - Solar and Renewable Energy Template">
+  <link href="../assets/images/favicon/favicon.png" rel="icon">
+  <title>Solatec - Solar and Renewable Energy Template</title>
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Rubik:400,500,600,700%7cRoboto:400,500,700&display=swap">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+  <link rel="stylesheet" href="../assets/css/libraries.css">
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <div class="preloader">
+      <div class="loading"><span></span><span></span><span></span><span></span></div>
+    </div><!-- /.preloader -->
+
+    <!-- =========================
+        Header
+    =========================== -->
+    <?php include '../parts/header.php'; ?>
+
+    <!-- ========================
+       page title 
+    =========================== -->
+    <section class="page-title" style="padding: 0;">
+      <img src="../assets/images/banners/american-fire-inc-page-9-fire-sprinklers-contractor-woodland-hills.jpg" alt="background">
+    </section><!-- /.page-title -->
+    <!-- ======================
+    Features Layout 2
+    ========================= -->
+    <section id="features" class="features-layout2 pt-120 pb-80">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-12 ">
+            <h3 class="heading__subtitle">More Than 100 Years of Combined Experience in Fire Protection</h3>
+<h1 class="heading__title">Fire Sprinklers Contractor Woodland Hills</h1>
+<h2 class="heading__subtitle">Expert Fire Safety Services </h2>
+<p class="heading__desc mb-20">When it comes to fire protection in Woodland Hills, you need a partner who combines expertise with reliability. At American Fire Protection Systems Inc., we are committed to safeguarding lives and properties through state-of-the-art fire sprinkler solutions. Whether it's a home, warehouse, or retail space, our fire sprinkler systems are meticulously designed and installed to meet local regulations and exceed expectations.</p>
+<h3 class="heading__subtitle">Our Proven Process for Residential Fire Sprinklers Woodland Hills</h3>
+<p class="heading__desc mb-20"><strong>System Design: </strong> Effective fire safety begins with strategic planning. Our team understands the specific needs of each unique property and will develop a customized solution tailored based on these requirements.</p>
+<p class="heading__desc mb-20"><strong>Permitting &amp; Approvals: </strong> We handle all the necessary permits and approvals, navigating the complexities of local regulations so you can focus on what matters most.</p>
+<p class="heading__desc mb-20"><strong>Expert Installation: </strong> Our highly skilled technicians ensure every fire sprinkler system is installed efficiently and accurately, keeping your  construction timeline on track.</p>
+<p class="heading__desc mb-20"><strong>Quality Assurance &amp; Inspections: </strong> Before completing a project, we conduct rigorous quality checks and inspections to guarantee that your system operates flawlessly and meets all safety standards.</p>
+<h3 class="heading__subtitle">Highly Trained and Equipped Technicians </h3>
+<p class="heading__desc mb-20">Our team of technicians in Woodland Hills is not only highly trained but also equipped with the latest tools and technology to deliver quality fire protection services. From new installations to inspections and maintenance, we prioritize precision and efficiency in every task while ensuring that every system integrates seamlessly into your property. With a commitment to excellence, we conduct thorough testing to check compliance with safety codes while guaranteeing reliable results you can trust.</p>
+<h3 class="heading__subtitle">Our Fire Protection Systems </h3>
+<p class="heading__desc mb-20"><strong>Single Family Homes: </strong> We specialize in both new construction and major remodels.</p>
+<p class="heading__desc mb-20"><strong>ADUs: </strong> Accessory Dwelling Units (ADUs) and Junior Accessory Dwelling Units (JADUs) require specialized fire protection solutions. We design and install systems that meet local codes while ensuring the safety of occupants and property.</p>
+<p class="heading__desc mb-20"><strong>Duplexes: </strong> Our fire sprinkler systems for duplexes are designed with efficiency and reliability in mind. We prioritize protecting families and ensuring compliance with safety regulations.</p>
+<p class="heading__desc mb-20"><strong>Multifamily Properties: </strong> From apartments to townhouses, we provide comprehensive fire protection solutions that balance functionality with cost-effectiveness, ensuring the safety of multiple tenants.</p>
+<p class="heading__desc mb-20"><strong>Commercial: </strong> From warehouses to retail spaces, our commercial fire protection in Woodland Hills is tailored to meet the unique demands of your business operations. We ensure integration into your building's design while maintaining compliance with all relevant codes.</p>
+<h2 class="heading__subtitle">Professional Services We Provide</h2>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Installation: </strong> With a focus on precision and speed, we handle installations for new construction and retrofit projects. Our team manages everything from permits to final testing, ensuring your system is operational with minimal disruption.</p>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Inspection: </strong> Regular inspections are essential for system reliability. Our comprehensive inspection protocols identify potential issues early, keeping your system code-compliant with ordinances and Authorities Having Jurisdiction (AHJs).</p>
+<p class="heading__desc mb-20"><strong>Fire Sprinkler Repair: </strong> When repairs are necessary, our technicians act quickly to diagnose and resolve issues. Whether it's a faulty component or a recalled part, we address any issues that arrive promptly to ensure your system is back in working order.</p>
+<h3 class="heading__subtitle">Protect What Matters Most with Reliable Fire Safety Solutions</h3>
+<h2 class="heading__subtitle">From Expert Installation to Maintenance, We Keep Lives and Properties Safe Across Woodland Hills.</h2>
+<h2 class="heading__subtitle">Why Choose Us for Your Fire Protection Needs</h2>
+<p class="heading__desc mb-20">Choosing the right partner for fire protection in Woodland Hills is crucial. At American Fire Protection Systems Inc., we stand out for our commitment to quality, efficiency, and customer satisfaction. Our team's extensive experience ensures every project is completed on time, within budget, and to the highest standards.</p>
+<p class="heading__desc mb-20">We are dedicated to delivering solutions that go beyond compliance, offering peace of mind to homeowners and businesses alike. Contact us today to schedule a consultation and take the first step toward superior fire protection.</p> 
+          </div><!-- /col-lg-5 -->
+        </div><!-- /.row -->
+      </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
+
+    <!-- ========================
+      Footer
+    ========================== -->
+    <?php include '../parts/footer.php'; ?>
+    <!-- /.Footer -->
+    <!-- <button id="scrollTopBtn"><i class="fas fa-long-arrow-alt-up"></i></button> -->
+
+  </div><!-- /.wrapper -->
+
+  <script src="../assets/js/jquery-3.5.1.min.js"></script>
+  <script src="../assets/js/plugins.js"></script>
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>
