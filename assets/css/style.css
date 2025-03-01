@@ -8389,3 +8389,22 @@ padding-top:30px!important;
   }
 }
 
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free" !important;
+}
+@media screen and (max-width: 991px) {
+  .dropdown-toggle::after {
+    content: "\e901" !important;
+    font-family: "af-fonts" !important;
+    width: 30px !important;
+    font-weight: 900;
+    position: absolute;
+    right: 0;
+    width: 50%;
+    text-align: right;
+    z-index: 2;
+    padding-right: 15px;
+    line-height: 35px;
+    display: block !important;
+  }
+}

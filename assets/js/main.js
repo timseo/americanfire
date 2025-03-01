@@ -39,12 +39,31 @@ $(function () {
     }, 2000);
 
     /*==========   Mobile Menu   ==========*/
-    $('.navbar-toggler').on('click', function () {
+    $(document).on('click','.navbar-toggler', function () {
         $('.navbar-collapse').addClass('menu-opened');
     })
 
-    $('.close-mobile-menu').on('click', function (e) {
+    $(document).on('click','.close-mobile-menu', function (e) {
         $('.navbar-collapse').removeClass('menu-opened');
+    });
+    // $(document).find('.dropdown-toggle').each(function(){
+    //     $(this).on('click', function (e) {
+    //         console.log('click');
+    //         $(this).siblings('.dropdown-menu').toggleClass('show_n');
+    //         $(this).parent('.has-dropdown').toggleClass('show_n');
+    //         if($(this).siblings('.dropdown-menu').hasClass('show_n')){
+    //             console.log('ok');
+    //         }
+    //     });
+    // });
+    $(document).on('click','.dropdown-toggle', function (e) {
+        // console.log('click');
+        $(this).attr('aria-expanded','true');
+        $(this).siblings('.dropdown-menu').toggleClass('show');
+        $(this).parent('.has-dropdown').toggleClass('show');
+        // if($(this).siblings('.dropdown-menu').hasClass('show_n')){
+        //     console.log('ok');
+        // }
     });
 
     /*==========   Sticky Navbar   ==========*/
