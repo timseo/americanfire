@@ -2451,6 +2451,7 @@ textarea.form-control {
   margin: 0;
   background-color: #ffffff;
 }
+
 .navbar .dropdown-menu .nav__item {
   padding: 0 40px;
   margin-right: 0;
@@ -2487,6 +2488,26 @@ textarea.form-control {
 }
 .navbar .dropdown-menu .dropdown-toggle:after {
   right: 0;
+}
+.navbar .dropdown-menu .dropdown-menu {
+  display: block !important;
+  padding-top: 0 !important;
+}
+.navbar .dropdown-menu .dropdown-menu .nav__item{
+  padding-left: 20px;
+}
+@media screen and (min-width:992px) {
+  .navbar .dropdown-menu .dropdown-menu{
+    box-shadow: none;
+    padding-bottom: 0;
+    position: static;
+  }
+  .navbar .dropdown-menu .nav__item:last-child .dropdown-menu{
+    border-top: 1px solid #eaeaea;
+  }
+  .navbar .dropdown-menu .nav__item:last-child .dropdown-menu .nav__item:not(:last-child) .nav__item-link{
+    border-bottom: 1px solid #eaeaea;
+  }
 }
 
 /* navbar-actions */
@@ -8407,4 +8428,16 @@ padding-top:30px!important;
     line-height: 35px;
     display: block !important;
   }
+}
+
+
+
+.why-choose-us .row:nth-child(2){
+  justify-content: center;
+}
+.why-choose-us .cta__item{
+  height: calc(100% - 40px);
+}
+.testimonials-layout2 .testimonial-item{
+  margin-bottom: 30px;
 }
