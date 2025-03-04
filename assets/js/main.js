@@ -125,11 +125,12 @@ $(function () {
     });
 
     /*==========   Add active class to accordions   ==========*/
-    $('.accordion__item-header').on('click', function () {
+    $('.accordion__item-header').on('click', function (e) {
+        e.preventDefault();
         $(this).parent('.accordion-item').addClass('opened');
         $(this).parent('.accordion-item').siblings().removeClass('opened');
     })
-    $('.accordion__item-title').on('click', function (e) {
+    $('.accordion__item-title,.accordion-item__header').on('click', function (e) {
         e.preventDefault()
     });
 
