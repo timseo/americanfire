@@ -8441,4 +8441,26 @@ padding-top:30px!important;
 .testimonials-layout2 .testimonial-item{
   margin-bottom: 30px;
 }
-.faq-q{}
+
+.header {
+  padding-top: 10px;
+}
+.navbar{
+  height: auto;
+  max-height: 200px!important;
+  flex-direction: column;
+}
+.navbar.is-sticky{
+  height: auto !important;
+  max-height: 200px!important;
+}
+.navbar-collapse{
+  align-self: center;
+  justify-content: center;
+}
+.header .container-fluid{
+  height: auto;
+}
+.navbar .nav__item .nav__item-link {
+  line-height: 70px;
+}
