@@ -8475,3 +8475,12 @@ padding-top:30px!important;
 .navbar .nav__item .nav__item-link {
   line-height: 110px;
 }
+
+.ab-sec-1 .portfolio__meta-list,
+.ab-sec-1 .portfolio__meta-list li{
+  border-color: #000;
+}
+.ab-sec-2 .portfolio__meta-list,
+.ab-sec-2 .portfolio__meta-list li{
+  border-color: #fff;
+}
