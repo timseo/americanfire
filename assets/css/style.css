@@ -8439,6 +8439,9 @@ padding-top:30px!important;
 .why-choose-us .cta__item{
   height: calc(100% - 40px);
 }
+.why-choose-us .cta__item img{
+  margin-left: 10px;
+}
 .testimonials-layout2 .testimonial-item{
   margin-bottom: 30px;
 }
