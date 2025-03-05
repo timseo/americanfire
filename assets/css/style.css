@@ -7803,6 +7803,7 @@ textarea.form-control {
 }
 .header .contact__number a {
   color: #6B6B6B;
+  font-size: 14px;
 }
 .header .navbar-actions {
   margin-left: 0 !important;
@@ -8442,7 +8443,7 @@ padding-top:30px!important;
   margin-bottom: 30px;
 }
 
-.header {
+/* .header {
   padding-top: 10px;
 }
 .navbar{
@@ -8463,4 +8464,11 @@ padding-top:30px!important;
 }
 .navbar .nav__item .nav__item-link {
   line-height: 70px;
+} */
+.navbar {
+  height: 110px;
+  max-height: 110px;
+}
+.navbar .nav__item .nav__item-link {
+  line-height: 110px;
 }
