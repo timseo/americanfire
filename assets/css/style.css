@@ -8439,7 +8439,8 @@ padding-top:30px!important;
 .why-choose-us .cta__item{
   height: calc(100% - 40px);
 }
-.why-choose-us .cta__item img{
+.why-choose-us .cta__item img,
+.advantages-and-benefits .cta__item img{
   margin-left: 10px;
 }
 .testimonials-layout2 .testimonial-item{
@@ -8483,4 +8484,8 @@ padding-top:30px!important;
 .ab-sec-2 .portfolio__meta-list,
 .ab-sec-2 .portfolio__meta-list li{
   border-color: #fff;
+}
+
+.blog-single .post-item .post__body {
+  margin-top: 0;
 }
