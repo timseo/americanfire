@@ -1,0 +1,54 @@
+RewriteOptions inherit
+<IfModule mod_rewrite.c>
+    Options +FollowSymlinks
+    RewriteEngine On
+
+    # Prevent rewriting existing files and directories
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # Redirect old .php pages to new clean URLs (without .html)
+    Redirect 301 /index.php /
+    Redirect 301 /contact-us.php /contact-us
+    Redirect 301 /services.php /services
+    Redirect 301 /faq.php /faq
+    Redirect 301 /3d-designs.php /3d-designs
+    Redirect 301 /articles.php /articles
+    Redirect 301 /maintenance.php /maintenance
+    Redirect 301 /other.php /advantages-and-benefits
+    Redirect 301 /our-clients.php /our-clients
+    Redirect 301 /privacy.php /privacy
+    Redirect 301 /fire-sprinkler-inspections.php /fire-sprinkler-inspections
+    Redirect 301 /fire-sprinkler-contractor.php /fire-sprinkler-contractor
+    Redirect 301 /why-choose-us.php /why-choose-us
+    Redirect 301 /capabilies.php /our-capabilities
+    Redirect 301 /commercial-fire-sprinkler-systems.php /commercial-fire-sprinkler-systems
+    Redirect 301 /industrial-businesses.php /industrial-businesses
+    Redirect 301 /fire-sprinkler-repairs.php /fire-sprinkler-repairs
+    Redirect 301 /residential-fire-sprinklers.php /residential-fire-sprinklers
+    Redirect 301 /news.php /news
+    Redirect 301 /projects-single-project.php /projects-single-project
+    Redirect 301 /request-quote.php /request-quote
+    Redirect 301 /shop.php /shop
+
+    # Redirect requests without .html to .html files
+    RewriteCond %{REQUEST_FILENAME}.html -f
+    RewriteRule ^([^/]+)/?$ $1.html [L]
+
+    # Redirect .shtml to .html
+    RedirectMatch 301 (.*).shtml$ $1.html
+
+    # Set up error page redirect
+    ErrorDocument 404 /404.html
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+</IfModule>
+
+ExpiresActive On
+ExpiresDefault A1
+Header append Cache-Control must-revalidate
