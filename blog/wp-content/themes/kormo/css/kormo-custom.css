@@ -1,0 +1,26 @@
+.test-thumb {
+	display: inline-block;
+}
+
+.author-thumb.pb-15 {
+	display: inline-block;
+}
+.service-box.service-3 img {
+	width: inherit;
+}
+
+div.meta-info-el ul li::before {
+	display: none;
+}
+.meta-info-el ul li a i{
+	margin-right: 3px;
+}
+div.meta-info-el ul li a {
+	color: #555;
+}
+div.meta-info-el ul li a:hover {
+	color: #2154CF;
+}
+.who-we-img img {
+	max-width: inherit !important;
+}

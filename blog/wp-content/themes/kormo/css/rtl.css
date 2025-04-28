@@ -1,0 +1,198 @@
+/*header*/
+.social-icon {
+	margin-left: 0;
+	padding-right: 30px;
+	padding-left: 0;
+}
+.social-icon::before {
+	left: auto;
+	right: 20px;
+}
+.language ul li a i {
+	margin-left: 0;
+	margin-right: 4px;
+}
+.header-call {
+	text-align: right !important;
+}
+.header-button {
+	float: left;
+}
+.main-menu {
+	float: left;
+}
+.logo {
+	text-align: right;
+}
+.header-button {
+	margin-left: 0;
+}
+.social-icon > a:last-child {
+	margin-right: 15px;
+}
+.main-menu ul li ul.submenu {
+	left: auto;
+	right: 0;
+	text-align: right;
+}
+.main-menu ul li ul.submenu li a {
+	text-align: right;
+}
+
+/*slider*/
+.slider-content {
+	text-align: right;
+}
+.slider-content p {
+	padding-right: 0;
+	padding-left: 120px;
+}
+.service-3-content {
+	text-align: right;
+}
+/*section title*/
+.col-lg-6.offset-lg-3 {
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 100%;
+	flex: 0 0 100%;
+	max-width: 100% !important;
+	padding: 0 230px;
+	margin-left: 0;
+	width: 100%;
+}
+/*service*/
+.services-area .mb-30 {
+	margin-bottom: 30px !important;
+	text-align: right;
+}
+/*team*/
+.team-text {
+	text-align: right;
+	right: 30px;
+}
+.who-we-box {
+	text-align: right;
+}
+.expert-list li::before {
+	left: auto;
+	right: 0;
+}
+.expert-list li {
+	margin-bottom: 20px;
+	padding-right: 33px;
+}
+.cta-button.text-md-right {
+	text-align: left !important;
+}
+.cta-text {
+	text-align: right;
+}
+.blog-wrapper {
+	text-align: right;
+}
+.blog-column .blog-title {
+	display: block;
+	text-align: right;
+}
+.widget.footer-widget {
+	text-align: right;
+}
+.footer-link li::before, .footer-widget ul li::before {
+	left: auto;
+	right: 0;
+}
+.black-footer .footer-info > li, .footer-widget ul li {
+	margin-bottom: 6px;
+	padding-bottom: 6px;
+	padding-right: 18px;
+}
+.footer-widget form button {
+	right: auto;
+	left: 0;
+}
+.copyright-text.text-center.text-lg-left {
+	text-align: right !important;
+}
+.footer-menu {
+	text-align: left !important;
+}
+.promotion-text {
+	text-align: right;
+}
+a.btn:hover span {
+	transform: translateX(-5px);
+}
+.servicee-sidebar {
+	text-align: right;
+}
+.service-details {
+	text-align: right;
+}
+.project-status {
+	text-align: right;
+}
+.project-desc {
+	text-align: right;
+}
+.kormo-search-btn {
+	left: 0;
+	right: auto;
+}
+.sidebar-blog .widget {
+	text-align: right;
+}
+.blog-title {
+	text-align: right;
+}
+.sidebar-rc-post .rc-post-thumb {
+	float: right;
+}
+.sidebar-rc-post .rc-post-thumb img {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.widget-date {
+	float: none;
+}
+.pagination ul {
+	text-align: right;
+}
+.author-meta .media-body {
+	padding-left: 0;
+	text-align: right;
+	padding-right: 20px;
+}
+blockquote {
+	border-right: 4px solid #2154CF;
+	border-left: 0;
+}
+.comments-avatar {
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+.comments-text {
+	text-align: right;
+}
+.avatar-name > h5 {
+	float: none;
+}
+.details-title.mb-30 {
+	text-align: right;
+}
+#commentform {
+	text-align: right;
+}
+.latest-comments ul li ul.children {
+	padding-left: 0;
+	padding-right: 70px;
+}
+.contact-form.mb-30 {
+	text-align: right;
+}
+.contact-info.mb-30 {
+	text-align: right;
+}
+.col-xl-2.col-lg-3.pr-0 {
+	padding-right: 15px !important;
+}
