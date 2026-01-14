@@ -1,4 +1,6 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/homm9zwil64/public_html/
-    - /bin/cp -R * $DEPLOYPATH
+
+    # Copy all files (including hidden ones like .htaccess)
+    - /bin/cp -a . $DEPLOYPATH
